@@ -1,38 +1,90 @@
-Here’s a `README.md` for your **Portfolio.github.io** repository that showcases your other repositories:
+# My Portfolio
 
----
+Welcome to my portfolio repository! This project showcases my personal and professional achievements, skills, and projects. You can view the live portfolio [here](https://xxiamdsk.github.io/Portfolio).
 
-# Welcome to My Portfolio
+## Table of Contents
 
-[![GitHub Profile](https://img.shields.io/badge/visit-my-profile-blue)](https://github.com/xxiamdsk)
+- [Overview](#overview)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Video Demo](#video-demo)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-Hello! I'm **Deepak Singh**, and this is my GitHub portfolio. Here, you can explore all of my projects and repositories showcasing my skills in web development, machine learning, and more. Feel free to check them out!
+## Overview
 
-## Featured Projects
+This portfolio highlights my journey as a developer, including my skills, projects, and professional experience. It is designed to provide a comprehensive overview of my work and capabilities.
 
-### 1. [NumboMania](https://github.com/xxiamdsk/numbo-mania)
-An engaging number guessing game where players challenge themselves to guess the correct number within a range.
+## Features
 
-### 2. [Fisticuffs](https://github.com/xxiamdsk/fisticuffs)
-A dynamic twist on Rock, Paper, Scissors, where players compete against a computer opponent in fast-paced rounds.
+- **About Me**: A brief introduction to who I am and my background.
+- **Skills**: A list of my technical skills and proficiencies.
+- **Projects**: Detailed descriptions of my key projects with links to live demos and source code.
+- **Experience**: My professional experience, including roles and responsibilities.
+- **Contact**: Ways to get in touch with me.
 
-### 3. [LeetSyncLite](https://github.com/xxiamdsk/LeetSyncLite)
-A GitHub Action that automates syncing your LeetCode progress with GitHub repositories.
+## Screenshots
 
-### 4. [Blissful Bites](https://github.com/xxiamdsk/blissful-bites-landing-page)
-A sleek landing page for a food adventure, designed to attract and inform visitors.
+Here are some screenshots of my portfolio:
 
-### 5. [Your Other Projects](https://github.com/xxiamdsk)
-Explore my other repositories for more projects, including various web applications and tools.
+![Home Page](screenshots/home_page.png)
+*Home Page*
 
-## Get In Touch
+![Projects Section](screenshots/projects_section.png)
+*Projects Section*
 
-Feel free to connect with me on [LinkedIn](#) or reach out via email at deepak@singh.in for collaborations or inquiries!
+![Contact Page](screenshots/contact_page.png)
+*Contact Page*
 
-## License
+## Video Demo
 
-This portfolio is open-source and available under the [MIT License](./LICENSE).
+Watch a video demo of my portfolio:
 
----
+[![Portfolio Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+*Click the image above to watch the video.*
 
-You can customize the links and descriptions of your projects as needed! Let me know if you’d like any changes or additional details.
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Slick
+- AOS
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/xxiamdsk/Portfolio.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Portfolio.github.io
+    ```
+
+## Usage
+
+Open the `index.html` file in your web browser to view the portfolio locally.
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Contact
+
+Feel free to get in touch with me for any questions or collaborations:
+
+- **Email**: [deepak@singh.in](mailto:deepak@singh.in)
+- **Portfolio**: [https://xxiamdsk.github.io/Portfolio.github.io/index.html](https://xxiamdsk.github.io/Portfolio)
